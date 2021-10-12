@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/bantybanty/bantybanty/readme_header.png "Header")](https://index.dhanbad.tk/profile_images/Alcatraz%20logo%20final.png)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/bantybanty/bantybanty/readme_header.png "Header")](https://index.dhanbad.tk/profile_images/Alcatraz%20logo%20banner%20_1200_480.png)
 
 - 👋 Hi, I’m @bantybanty
 - 👀 I’m interested in ...
