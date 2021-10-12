@@ -1,6 +1,7 @@
-[![Header][![Header](https://raw.githubusercontent.com/bantybanty/bantybanty/assets/readme_header.png "Header")](https://wordpress.dhanbad.tk/)
+<!--[![Header](https://raw.githubusercontent.com/bantybanty/bantybanty/assets/readme_header.png "Header")](https://wordpress.dhanbad.tk/)-->
+[![Header](https://github.com/bantybanty/bantybanty/blob/main/assets/readme_header.png "Header")](https://wordpress.dhanbad.tk/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/bantybanty/bantybanty/assets/wave.gif" width="30px">
+# Hello, folks! <img src="https://github.com/bantybanty/bantybanty/blob/main/assets/wave.gif" width="30px">
 
 My name is Siddharth also known as "bantybanty" & "Alcatraz" and I'm a Network engineer CCNA certified. I'm from Jharkhand, India and currently not working. You can find me on (https://alcatraz.dhanbad.tk/).
 
