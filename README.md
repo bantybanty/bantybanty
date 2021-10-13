@@ -4,11 +4,11 @@
 
 # Hello, folks! <img src="https://github.com/bantybanty/bantybanty/blob/main/assets/wave.gif" width="30px">
 
-- 👋 I’m @bantybanty aka @Alcatraz
+- 👋 I’m Siddharth aka @bantybanty or @Alcatraz
 - 👀 I’m from Jharkhand, India.
-- 👀 I'm a Network Engineer also holing Cisco CCNA certificate since March, 2020.
+- 🌱 I'm a Network Engineer also holing Cisco CCNA certificate since March, 2020.
 - 🌱 I’m interested in Networking, Docker, Kubernetes, Yaml, Home Automation, Electronics pcb degine
-- 🌱 I’m currently learning Python & Ethernal Hacking...
+- 💞️ I’m currently learning Python & Ethernal Hacking...
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me on my self hosted little-link container (https://alcatraz.dhanbad.tk/)
 
@@ -19,18 +19,26 @@ Apart from Networking, I also maintain a blog - you can find my articles on my w
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-CentOs-informational?style=flat&logo=centos&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Kali-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Hypervisor-Esxi-informational?style=flat&logo=vmware&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Hypervisor-Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Tools-Wireshark-informational?style=flat&logo=wireshark&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -42,6 +50,7 @@ Apart from Networking, I also maintain a blog - you can find my articles on my w
 </a>
 
 # Resources Used:
+
 - Icons: (https://simpleicons.org/)
 - GitHub Stats: (https://github.com/anuraghazra/github-readme-stats)
 - Emojis: (https://emojipedia.org/emoji/)
