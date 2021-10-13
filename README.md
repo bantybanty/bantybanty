@@ -5,14 +5,12 @@
 # Hello, folks! <img src="https://github.com/bantybanty/bantybanty/blob/main/assets/wave.gif" width="30px">
 
 - 👋 I’m @bantybanty aka @Alcatraz
-- I’m from Jharkhand, India.
-- I'm a Network Engineer also holing Cisco CCNA certificate since March, 2020.
-- 👀 I’m interested in Networking, Docker, Kubernetes, Yaml, Home Automation, Electronics pcb degine
+- 👀 I’m from Jharkhand, India.
+- 👀 I'm a Network Engineer also holing Cisco CCNA certificate since March, 2020.
+- 🌱 I’m interested in Networking, Docker, Kubernetes, Yaml, Home Automation, Electronics pcb degine
 - 🌱 I’m currently learning Python & Ethernal Hacking...
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me on my self hosted little-link container (https://alcatraz.dhanbad.tk/)
-
-My name is Siddharth also known as "bantybanty" & "Alcatraz" and I'm a Network engineer CCNA certified. I'm from Jharkhand, India and currently not working. You can find me on (https://alcatraz.dhanbad.tk/).
 
 ## &#x270d; Blog & Writing
 
@@ -36,9 +34,9 @@ Apart from Networking, I also maintain a blog - you can find my articles on my w
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/bantybanty/bantybanty">
+<!-- <a href="https://github.com/bantybanty/bantybanty">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bantybanty&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+</a> -->
 <a href="https://github.com/bantybanty/bantybanty">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bantybanty&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
@@ -51,4 +49,4 @@ Apart from Networking, I also maintain a blog - you can find my articles on my w
 - Shields: (https://shields.io/)
 - Awesome GitHub Profile README: (https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 - Awesome Little-link-Server: (https://github.com/techno-tim/littlelink-server.git)
-- More info, tips and tricks for making GitHub Profile README can be found in my article at (https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7)
+- More info, tips and tricks for making GitHub Profile README can be found in Martin Heinz article at (https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7)
