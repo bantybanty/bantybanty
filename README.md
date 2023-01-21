@@ -10,11 +10,11 @@
 - 🌱 I’m interested in Networking, Docker, Kubernetes, Yaml, Home Automation, Electronics, PCB degine
 - 💞️ I’m currently learning Python & Ethernal Hacking...
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me on my self hosted little-link container (https://alcatraz.dhanbad.tk/)
+- 📫 How to reach me on my self hosted little-link container (https://alcatraz.dhnlab.com/)
 
 ## &#x270d; Blog & Writing
 
-Apart from Networking, I also maintain a blog - you can find my articles on my website at [Wordpress.dhanbad.tk](https://wordpress.dhanbad.tk/)
+Apart from Networking, I also maintain a blog - you can find my articles on my website at [bantybanty.github.io](https://wordpress.dhanbad.tk/)
 
 ## 🔧 Technologies & Tools
 
