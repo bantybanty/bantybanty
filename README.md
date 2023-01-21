@@ -1,6 +1,6 @@
-<!--[![Header](https://raw.githubusercontent.com/bantybanty/bantybanty/assets/readme_header.png "Header")](https://wordpress.dhanbad.tk/)-->
+<!--[![Header](https://github.com/bantybanty/profile_github/blob/6c82bb73a23d6438d4e803637cc4aa3b11af2f1f/assets/readme_header.png "Header")](https://alcatraz.dhnlab.com//)-->
 
-[![Header](https://github.com/bantybanty/bantybanty/blob/main/assets/readme_header.png "Header")](https://alcatraz.dhanbad.tk/)
+[![Header](https://github.com/bantybanty/profile_github/blob/6c82bb73a23d6438d4e803637cc4aa3b11af2f1f/assets/readme_header.png "Header")](https://alcatraz.dhnlab.com/)
 
 # Hello, folks! <img src="https://github.com/bantybanty/bantybanty/blob/main/assets/wave.gif" width="30px">
 
@@ -14,7 +14,7 @@
 
 ## &#x270d; Blog & Writing
 
-Apart from Networking, I also maintain a blog - you can find my articles on my website at [bantybanty.github.io](https://wordpress.dhanbad.tk/)
+Apart from Networking, I also maintain a blog - you can find my articles on my website at [https://bantybanty.github.io](https://bantybanty.github.io/)
 
 ## 🔧 Technologies & Tools
 
